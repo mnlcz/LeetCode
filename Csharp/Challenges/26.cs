@@ -1,8 +1,8 @@
-namespace _26;
+namespace Challenges;
 
-public class Solution
+public static partial class Solution
 {
-    public int RemoveDuplicates(int[] nums)
+    public static int RemoveDuplicates(int[] nums)
     {
         if (nums.Length == 0)
             return 0;

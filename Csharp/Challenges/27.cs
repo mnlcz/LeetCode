@@ -1,8 +1,8 @@
-namespace _27;
+namespace Challenges;
 
-public class Solution
+public static partial class Solution
 {
-    public int RemoveElement(int[] nums, int val)
+    public static int RemoveElement(int[] nums, int val)
     {
         if (nums.Length == 0)
             return 0;

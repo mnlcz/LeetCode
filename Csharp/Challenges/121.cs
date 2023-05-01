@@ -1,8 +1,8 @@
-namespace _121;
+namespace Challenges;
 
-public class Solution
+public static partial class Solution
 {
-    public int MaxProfit(int[] prices)
+    public static int MaxProfit(int[] prices)
     {
         var (possible, output) = Lazy(prices);
         if (possible)

@@ -1,8 +1,8 @@
-namespace _9;
+namespace Challenges;
 
-public class Solution
+public static partial class Solution
 {
-    public bool IsPalindrome(int x)
+    public static bool IsPalindrome(int x)
     {
         var s1 = x.ToString();
         var s2 = s1.ToCharArray();

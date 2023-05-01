@@ -1,18 +1,18 @@
-namespace _13;
-
 using System.Text.RegularExpressions;
 
-public class Solution
+namespace Challenges;
+
+public static partial class Solution
 {
-    public int RomanToInt(string s)
+    public static int RomanToInt(string s)
     {
         var number = 0;
         foreach (var l in s)
-            number += table[l];
+            number += _table[l];
         return Fix(s, number);
     }
 
-    private static readonly Dictionary<char,int> table = new()
+    private static readonly Dictionary<char,int> _table = new()
     {
         {'I', 1},
         {'V', 5},

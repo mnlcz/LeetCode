@@ -1,8 +1,8 @@
-namespace _14;
+namespace Challenges;
 
-public class Solution
+public static partial class Solution
 {
-    public string LongestCommonPrefix(string[] words)
+    public static string LongestCommonPrefix(string[] words)
     {
         var commonPrefix = "";
         for (var i = 0; i < words[0].Length; i++)

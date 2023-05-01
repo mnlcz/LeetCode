@@ -1,13 +1,13 @@
-namespace _1;
+namespace Challenges;
 
-public class Solution
+public static partial class Solution
 {
-    public int[] TwoSum(int[] nums, int target)
+    public static int[] TwoSum(int[] nums, int target)
     {
         Dictionary<int, int> dict = new();
-        for (int i = 0; i < nums.Length; i++)
+        for (var i = 0; i < nums.Length; i++)
         {
-            int diferencia = target - nums[i];
+            var diferencia = target - nums[i];
             if (dict.ContainsKey(diferencia))
                 return new[] { dict[diferencia], i };
 

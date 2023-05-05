@@ -1,6 +1,6 @@
 using System.Text.RegularExpressions;
 
-namespace Challenges;
+namespace Csharp.Challenges;
 
 public static partial class Solution
 {

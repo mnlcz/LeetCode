@@ -1,4 +1,4 @@
-namespace Csharp.Challenges;
+namespace Csharp.Challenges.LeetCode75;
 
 public static partial class Solution
 {

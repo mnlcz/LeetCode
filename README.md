@@ -8,7 +8,7 @@ My solutions to the problems located in [LeetCode](https://leetcode.com/problems
 
 | Challenge | Problem Set | Languages |
 | :----: | :----: | :----: |
-| 1. Two Sum | NeetCode  | [csharp](Csharp/Challenges/1.cs), [js](JS/NeetCode%20roadmap/Arrays%20&%20Hashing/1-two-sum.js)|
+| 1. Two Sum | NeetCode  | [csharp](Csharp/Challenges/1.cs), [js](JS/NeetCode%20roadmap/Arrays%20&%20Hashing/1.js)|
 | 9. Palindrome Number | - | [csharp](Csharp/Challenges/9.cs) |
 | 13. Roman to Integer | - | [csharp](Csharp/Challenges/13.cs) |
 | 14. Longest Common Prefix | - | [csharp](Csharp/Challenges/14.cs) |

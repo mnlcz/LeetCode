@@ -43,4 +43,4 @@ Example: the solution to problem number 1 "[Two Sum](https://leetcode.com/proble
 
 ### JavaScript
 
-Nothing out of the ordinary, just copy and paste it. The functions have the same name, I only changed `var` to `let` and `function` to an arrow function.
+Nothing out of the ordinary, just copy and paste it. The functions have the same name, I only changed `var` and `function` to an arrow function.

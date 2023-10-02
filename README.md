@@ -12,6 +12,7 @@ My solutions to the problems located in [LeetCode](https://leetcode.com/problems
 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | - | [csharp](Csharp/Challenges/14.cs) |
 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | LeetCode75 | [csharp](Csharp/Challenges/LeetCode75/21.cs) |
 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | - | [csharp](Csharp/Challenges/26.cs) |
+| [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | NeetCode | [js](JS/NeetCode%20roadmap/Arrays%20&%20Hashing/36.js) |
 | [27. Remove Element](https://leetcode.com/problems/remove-element) | - | [csharp](Csharp/Challenges/27.cs) |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams) | NeetCode | [js](JS/NeetCode%20roadmap/Arrays%20&%20Hashing/49.js) |
 | [121. Best Time to Buy and Sell](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | - | [csharp](Csharp/Challenges/121.cs) |

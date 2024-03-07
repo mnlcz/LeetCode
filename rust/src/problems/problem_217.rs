@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/contains-duplicate/description/
 use std::collections::HashMap;
 
 #[allow(dead_code)]

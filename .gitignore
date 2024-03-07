@@ -479,3 +479,4 @@ $RECYCLE.BIN/
 # Personal ignores
 Program.cs
 main.rs
+target/

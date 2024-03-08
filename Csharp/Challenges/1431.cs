@@ -1,4 +1,5 @@
-﻿namespace Csharp.Challenges.LeetCode75;
+﻿namespace Csharp.Challenges;
+
 public static partial class Solution
 {
 	public static IList<bool> KidsWithCandies(int[] candies, int extraCandies)

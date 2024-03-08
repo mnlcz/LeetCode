@@ -1,4 +1,5 @@
-﻿namespace Csharp.Challenges.LeetCode75;
+﻿namespace Csharp.Challenges;
+
 public static partial class Solution
 {
 	public static bool CanPlaceFlowers(int[] flowerbed, int n)

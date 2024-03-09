@@ -12,7 +12,7 @@ public static partial class Solution
         return Fix(s, number);
     }
 
-    private static readonly Dictionary<char,int> _table = new()
+    private static readonly Dictionary<char, int> _table = new()
     {
         {'I', 1},
         {'V', 5},

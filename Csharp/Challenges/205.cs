@@ -14,7 +14,7 @@ public static partial class Solution
             d1[c1] = c2;
             d2[c2] = c1;
         }
-        
+
         return true;
     }
 }

@@ -13,7 +13,7 @@ public static partial class Solution
             if (groups.ContainsKey(sorted))
                 groups[sorted].Add(str);
             else
-                groups[sorted] = new List<string>() {str};
+                groups[sorted] = new List<string>() { str };
         }
 
         return groups.Values.ToList();
@@ -24,7 +24,7 @@ public static partial class Solution
         var chars = str.ToCharArray();
 
         Array.Sort(chars);
-        
+
         return new string(chars);
     }
 }

@@ -14,7 +14,7 @@ public static partial class Solution
             chIdx++;
             if (chIdx == s.Length) return true;
         }
-        
+
         return false;
     }
 }

@@ -1,5 +1,7 @@
 package Problems
 
+import Utils.*
+
 // https://leetcode.com/problems/two-sum/description/
 
 fun twoSum(nums: IntArray, target: Int): IntArray {
@@ -28,8 +30,7 @@ fun test1() {
     for ((input, expected) in ts) {
         val (nums, target) = input
         val res = expected.contentEquals(twoSum(nums, target))
-        val color = if (res) "\u001B[32mPASS\u001B[0m" else "\u001B[31mFAIL\u001B[0m"
-        println("For ${nums.contentToString()} with target $target: [$color]")
+        println("For ${nums.contentToString()} with target $target: ${colorResult(res)}")
     }
 }
 

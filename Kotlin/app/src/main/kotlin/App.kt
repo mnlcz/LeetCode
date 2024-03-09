@@ -1,5 +1,5 @@
-import Problems.something
+import Problems.test1
 
 fun main() {
-    something()
+    test1()
 }

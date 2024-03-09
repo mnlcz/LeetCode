@@ -1,5 +1,12 @@
-import Problems.test1
+import Problems.*
+
+val problems = arrayOf<() -> Unit>(
+    ::test1,
+)
 
 fun main() {
-    test1()
+    problems.forEach { 
+        it() 
+        println()
+    }
 }

@@ -5,6 +5,7 @@ val problems =
         ::test1,
         ::test49,
         ::test217,
+        ::test238,
         ::test242,
         ::test347,
     )

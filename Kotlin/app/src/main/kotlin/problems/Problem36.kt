@@ -3,7 +3,7 @@ import Utils.*
 // https://leetcode.com/problems/valid-sudoku/description/
 fun isValidSudoku(board: Array<CharArray>): Boolean {
     val set = mutableSetOf<Char>()
-    
+
     // rows
     for (r in board) {
         set.clear()
@@ -15,7 +15,7 @@ fun isValidSudoku(board: Array<CharArray>): Boolean {
 
     // cols
     for (i in 0 until board.size) {
-        set.clear()  
+        set.clear()
         for (j in 0 until board.size) {
             val item = board[j][i]
             if (item != '.' && set.contains(item)) return false
@@ -36,7 +36,7 @@ fun isValidSudoku(board: Array<CharArray>): Boolean {
             }
         }
     }
-    
+
     return true
 }
 

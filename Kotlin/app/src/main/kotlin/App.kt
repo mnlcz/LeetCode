@@ -6,6 +6,7 @@ val problems =
         ::test49,
         ::test217,
         ::test242,
+        ::test347,
     )
 
 fun main() {

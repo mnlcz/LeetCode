@@ -9,6 +9,7 @@ val problems =
         ::test217,
         ::test238,
         ::test242,
+        ::test271,
         ::test347,
     )
 

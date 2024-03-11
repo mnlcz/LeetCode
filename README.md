@@ -1,6 +1,6 @@
 # LeetCode
 
-My solutions to the problems located in [LeetCode](https://leetcode.com/problemset/all/).
+My solutions to the [LeetCode](https://leetcode.com/problemset/all/) problems.
 
 ## Challenges
 

@@ -480,3 +480,6 @@ $RECYCLE.BIN/
 Program.cs
 target/
 *.db
+.settings
+.project
+.classpath
